@@ -17,7 +17,7 @@ The program reads matrix data from text files, processes them as sparse matrices
 
 ### 1. Download the Repository
 - Click the green **"Code"** button on this GitHub repository.
-- Select **"Download ZIP"**.
+- From **"Local"** option select **"Download ZIP"**.
 - Extract the ZIP file to a folder on your local machine.
 
 ### 2. Open the Project
